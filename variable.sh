@@ -19,3 +19,6 @@ read username
 
 echo "The name is $username"
 
+#executes another ssh-script
+./hera_pheri.sh
+
